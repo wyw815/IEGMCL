@@ -42,8 +42,16 @@ $ pip install yacs
 
 
 ## Datasets
-All data used in this work are from public resource. The BindingDB and BioSNAP source is at [https://github.com/peizhenbai/DrugBAN](https://github.com/peizhenbai/DrugBAN) and the Human and C.elegans source is at [https://github.com/masashitsubaki/CPI_prediction](https://github.com/masashitsubaki/CPI_prediction).
-
+The `human` dataset is used as an example and should be placed under the `datasets/` directory
+To reduce the size of this GitHub repository, all datasets are hosted externally on Google Drive.
+You can download the complete dataset collection from the following link:
+🔗[Download Dataset from Google Drive]https://drive.google.com/drive/folders/1ZSgClfG8hzrZmvE-1UiaBz2OczYfECNh?usp=sharing
+After downloading, please unzip the file and place it in the following directory structure:
+datasets/
+├── human/
+├── biosnap/
+├── bindingdb/
+└── celegans/
 
 ## Run  IEGMCL on Our Data to Reproduce Results
 
