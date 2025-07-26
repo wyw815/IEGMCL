@@ -42,11 +42,11 @@ $ pip install yacs
 
 
 ## Datasets
-The `human` dataset is used as an example and should be placed under the `datasets/` directory
-To reduce the size of this GitHub repository, all datasets are hosted externally on Google Drive.
-You can download the complete dataset collection from the following link:
+$ The `human` dataset is used as an example and placed under the `datasets/` directory
+$ To reduce the size of this GitHub repository, all datasets are hosted externally on Google Drive.
+$ You can download the complete dataset collection from the following link:
 🔗[Download Dataset from Google Drive]https://drive.google.com/drive/folders/1ZSgClfG8hzrZmvE-1UiaBz2OczYfECNh?usp=sharing
-All datasets have already been pre-split into E1,E2,E3 and E4.After downloading, please unzip the file and place it in the following directory structure:
+$ All datasets have already been pre-split into E1,E2,E3 and E4.After downloading, please unzip the file and place it in the following directory structure:
 datasets/
 ├── human/
 ├── biosnap/
