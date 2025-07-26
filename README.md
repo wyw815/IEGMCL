@@ -6,7 +6,7 @@
 ## Introduction
 This repository contains the PyTorch implementation of IEGMCL framework
 ## Framework
-<img src="C:\Users\Administrator\Desktop\mlandti\论文图片素材\fig1_01.png">
+<img src="fig1_01.png">
 
 ## System Requirements
 The source code developed in Python 3.10 using PyTorch 2.1.0. The required python dependencies are given below. 
